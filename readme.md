@@ -8,4 +8,4 @@ Collection of great EOS tutorials available online written or compiled by [EOS A
 
 ## Japanense
 * [EOSスマートコントラクト , Part 1: はじめに(Ping equivalent in EOS)](https://github.com/eosasia/awesome-eos-tutorials/blob/master/jp/eos-ping.md)
-
+* [EOSを使ってTo-doリストを作る(EOSで永続データを扱う）(Building a To-do list with EOS)](https://github.com/eosasia/awesome-eos-tutorials/blob/master/jp/todolist.md)
