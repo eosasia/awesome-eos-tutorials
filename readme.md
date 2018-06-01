@@ -1,6 +1,6 @@
 Collection of great EOS tutorials available online written or compiled by [EOS Asia](https://www.eosasia.one). 
 
-## EOS Mainnet Launch Related
+# EOS Mainnet Launch Related
 
 ### Launch tools
 * [eos-bios from EOS Canada](https://github.com/eoscanada/eos-bios)
@@ -9,6 +9,8 @@ Collection of great EOS tutorials available online written or compiled by [EOS A
 ### Validation tools
 * [Firestarter from EOS Argentina](https://github.com/EOSArgentina/firestarter)
 * [eos_validator from EOS Bixin](https://github.com/EOSBIXIN/eostoolkit/tree/master/eos_validator)
+
+# Tutorials on Building EOS DApp
 
 ## English
 * [Ping with EOS, EOS.js and React](https://github.com/eosasia/ping-eos)
