@@ -9,6 +9,7 @@ Collection of great EOS tutorials available online written or compiled by [EOS A
 ### Validation tools
 * [Firestarter from EOS Argentina](https://github.com/EOSArgentina/firestarter)
 * [eos_validator from EOS Bixin](https://github.com/EOSBIXIN/eostoolkit/tree/master/eos_validator)
+* [eospy from EOS New York](https://github.com/eosnewyork/eospy)
 
 # Tutorials on Building EOS DApp
 
