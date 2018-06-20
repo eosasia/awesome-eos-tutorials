@@ -1,6 +1,9 @@
 Collection of great EOS tutorials available online written or compiled by [EOS Asia](https://www.eosasia.one). 
 
-# EOS Mainnet Launch Related
+# EOS Block Producer Related
+
+### Monitoring tools
+* [bp monitor & alert from EOS SV][https://github.com/eossv/bp-monitor]
 
 ### Launch tools
 * [eos-bios from EOS Canada](https://github.com/eoscanada/eos-bios)
